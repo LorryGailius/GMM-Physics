@@ -1,0 +1,20 @@
+Converting GML script: ${project_dir}\objects\o_collision_parent\Collision_a07c63a2-2d0a-4c49-adde-a2b73579e222.gml
+Converted description /// @description Detect collisio
+
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Converting GML script: ${project_dir}\objects\o_car_body\Step_0.gml
+Converted builtin - line 1: view_xview[0]= x-view_wview[0]/2 -> __view_set( e__VW.XView, 0, x-view_wview[0]/2 )
+Converted builtin - line 2: view_yview[0]= y-view_hview[0]/2 -> __view_set( e__VW.YView, 0, y-view_hview[0]/2 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Game speed set to 60
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'view/__view_get.gml'
+Added compatibility script 'view/__view_set.gml'
+Added compatibility script 'view/__view_set_internal.gml'
+Added compatibility script 'view/__init_view.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'
